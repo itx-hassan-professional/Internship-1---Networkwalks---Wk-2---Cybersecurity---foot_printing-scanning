@@ -235,7 +235,7 @@ Finally, I learned that reconnaissance and scanning must always be performed <st
 <!-- PROJECT INFORMATION -->
 <h2>Project Information</h2>
 <table class="author-table">
-  <tr><td><strong>Author</strong></td><td>Waqas Karim — CCIE | Cybersecurity Professional (B082)</td></tr>
+  <tr><td><strong>Author</strong></td><td>Ahmad Hassan | Cybersecurity Professional (B083)</td></tr>
   <tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/itxhassan" target="_blank">https://www.linkedin.com/in/itxhassan</a></td></tr>
   <tr><td><strong>Program Name</strong></td><td>Cybersecurity program at Networkwalks</td></tr>
   <tr><td><strong>Week</strong></td><td>02</td></tr>
