@@ -95,12 +95,11 @@ For the second activity, I used <strong>Zenmap</strong> to perform network disco
 <p>
 I first used the Windows <code>ipconfig</code> command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected <strong>Ping Scan</strong> to identify active hosts.
 </p>
-<p>The example results provided in the practical identified <strong>four live hosts</strong>:</p>
+<p>The example results provided in the practical identified <strong>three live hosts</strong>:</p>
 <ul>
-  <li>10.0.0.1</li>
-  <li>10.0.0.4</li>
-  <li>10.0.0.19</li>
-  <li>10.0.0.5</li>
+  <li>10.15.98.2</li>
+  <li>10.15.98.168</li>
+  <li>10.15.98.47</li>
 </ul>
 <p>The example results also included <strong>four MAC addresses</strong>.</p>
 <p>
@@ -228,35 +227,6 @@ Finally, I learned that reconnaissance and scanning must always be performed <st
 
 <hr>
 
-<!-- 8. EVIDENCES -->
-<h2>8. Evidences Collected</h2>
-
-<h3>Evidence 1</h3>
-<!-- Replace with: <img src="evidence/01-whois.png" alt="WHOIS" class="evidence-img"> -->
-
-<h3>Evidence 2</h3>
-<!-- Replace with: <img src="evidence/02-whatweb.png" alt="WhatWeb" class="evidence-img"> -->
-
-<h3>Evidence 3</h3>
-<!-- Replace with: <img src="evidence/03-nslookup.png" alt="Nslookup" class="evidence-img"> -->
-
-<h3>Evidence 4</h3>
-<!-- Replace with: <img src="evidence/04-curl.png" alt="Curl" class="evidence-img"> -->
-
-<h3>Evidence 5</h3>
-<!-- Replace with: <img src="evidence/05-wafw00f.png" alt="Wafw00f" class="evidence-img"> -->
-
-<h3>Evidence 6</h3>
-<!-- Replace with: <img src="evidence/06-dnsrecon.png" alt="DNSRecon" class="evidence-img"> -->
-
-<h3>Evidence 7</h3>
-<!-- Replace with: <img src="evidence/07-ipconfig.png" alt="ipconfig" class="evidence-img"> -->
-
-<h3>Evidence 8</h3>
-<!-- Replace with: <img src="evidence/08-zenmap-topology.png" alt="Zenmap Topology" class="evidence-img"> -->
-
-<hr>
-
 <!-- END -->
 <p class="center"><strong>— End —</strong></p>
 
@@ -266,7 +236,7 @@ Finally, I learned that reconnaissance and scanning must always be performed <st
 <h2>Project Information</h2>
 <table class="author-table">
   <tr><td><strong>Author</strong></td><td>Waqas Karim — CCIE | Cybersecurity Professional (B082)</td></tr>
-  <tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/waqaskarim/" target="_blank">https://www.linkedin.com/in/waqaskarim/</a></td></tr>
+  <tr><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/itxhassan" target="_blank">https://www.linkedin.com/in/itxhassan</a></td></tr>
   <tr><td><strong>Program Name</strong></td><td>Cybersecurity program at Networkwalks</td></tr>
   <tr><td><strong>Week</strong></td><td>02</td></tr>
   <tr><td><strong>Repository</strong></td><td>GitHub</td></tr>
