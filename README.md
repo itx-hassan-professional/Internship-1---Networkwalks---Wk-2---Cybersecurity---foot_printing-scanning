@@ -9,15 +9,19 @@
 <!-- TITLE -->
 <h1>Penetration Testing Report</h1>
 <h2>W2-P1 — Week 2 Report: Footprinting, Reconnaissance &amp; Network Scanning</h2>
-
-<blockquote>
-  <strong>Program:</strong> Networkwalks B082<br>
-  <strong>Date:</strong> 11/9/2026<br>
-  <strong>Modules Completed:</strong> W2-PM1(Multiple Kali Tools) & W2-PM5(Zenmap Scannig)<br>
-  <strong>Client/Target:</strong> 1. Networkwalks(secured written permission already 2. My own local LAN Network <br>
-  <strong>Permission secured from client?:</strong> yes <br>
-  <strong>Phases covered:</strong> <b>Phase 1:</b> Reconnaissance & Footprinting <b>Phase 2:</b> Scanning & Network Discovery <br>
-</blockquote>
+<table>
+  <thead>
+    <tr><th>Pentester Name</th> <th>Ahamd Hassan</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><b>Program</b><td>Networkwalks B083</td></td></tr>
+    <tr><td><b>Date</b></td><td>11/9/2026</td></tr>
+    <tr><td><b>Modules Completed</b></td><td><ul><li>W2-PM1(Multiple Kali Tools)</li><li>W2-PM5(Zenmap Scannig)</li></ul></td></tr>
+    <tr><td><b>Client/Target</b></td><td><ul><li>Networkwalks(secured written permission already)</li><li>My own local LAN Network</li></ul></td></tr>
+    <tr><td><b>Permission secured from client ?</b></td><td>yes</td></tr>
+    <tr><td><b>Phases covered</b></td><td><ul><li><b>Phase 1:</b> Reconnaissance & Footprinting</li><li><b>Phase 2:</b> Scanning & Network Discovery</li></ul></td></tr>
+  </tbody>
+</table>
 
 <hr>
 
